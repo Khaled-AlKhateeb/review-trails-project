@@ -1,62 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
-
+# Review Trails Projects
+Performing the code review on a previous project we did during the admission trials.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- HTML/ CSS
+- Linters
 
 ### Prerequisites
+basic HTML/CSS
 
 ### Setup
+Not needed
 
 ### Install
+Not needed
 
 ### Usage
+Dr. Norman Borlaug Bio
 
 ### Run tests
+Linters
 
 ### Deployment
-
+Internet Browser (Google chrome)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author1** Khaled Al-Khateeb
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Khaled-AlKhateeb)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khaled-al-khateeb-3a1013247/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Khaled-AlKhateeb/review-trails-project/issues).
 
 ## Show your support
 
